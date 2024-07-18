@@ -1,4 +1,4 @@
-#This is my learning JS repository
+# This is my learning JS repository
 
 it wasn't created for some usefull purpouses (sorry for my bad english)
 
